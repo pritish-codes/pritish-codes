@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Pritish Khera</h1>
 <h3 align="center">I am an aspiring Full Stack Developer</h3>
 
-<img align="right" alt="Coding" width="200" src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
+<img align="right" alt="Coding" width="150" src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pritish-codes" alt="pritish-codes" /></a> </p>
 
