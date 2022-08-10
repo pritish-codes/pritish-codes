@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **React Framework**
+- 🌱 I’m currently learning **Node JS**
 
 - 🤝 I’m looking for help with **Open Source Contributions**
 
